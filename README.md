@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nasreen Banu</h1>
-<h3 align="center">A passionate Mobile App developer from TamilNadu</h3>
+<h3 align="center">A Full Stack developer from TamilNadu</h3>
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nasreen-28](https://github.com/nasreen-28)
 
